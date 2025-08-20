@@ -4,8 +4,8 @@ static int topbar            = 1; /* 0 means bottom bar */
 static const char *fonts[]   = { "monospace:size=10" };
 static uint32_t colors[][3]  = {
 	/*               fg          bg         */
-	[SchemeNorm] = { 0xbbbbbbff, 0x222222ff },
-	[SchemeSel]  = { 0xeeeeeeff, 0x005577ff },
+	[SchemeNorm] = { 0xd5c4a1ff, 0x202020ff },
+	[SchemeSel]  = { 0xd5c4a1ff, 0x504945ff },
 };
 
 /* tagging */
